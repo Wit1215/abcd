@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
 
-	printf("wwww");
+	
+
+	printf("two output");
     	return 0;
 }
